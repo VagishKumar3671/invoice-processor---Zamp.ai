@@ -1,0 +1,7 @@
+po_number,vendor_name,po_amount,currency,po_date,description,status
+PO-2024-001,Acme Supplies Pvt Ltd,50000,INR,2024-01-15,Office furniture and fixtures,Open
+PO-2024-002,Beta Technologies,125000,INR,2024-02-01,Annual software license renewal,Open
+PO-2024-003,Gamma Services,30000,INR,2024-01-20,Consulting services Q1 2024,Open
+PO-2024-004,Delta Logistics,75000,INR,2024-03-01,Warehousing and shipping contract,Open
+PO-2024-005,Acme Supplies Pvt Ltd,20000,INR,2024-03-10,Printer cartridges and toner,Open
+PO-2024-006,Beta Technologies,60000,INR,2024-03-15,Cloud infrastructure setup,Closed

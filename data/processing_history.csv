@@ -1,0 +1,1 @@
+invoice_number,vendor_name,po_number,invoice_amount,document_id,document_type,tax_amount,currency,po_currency,po_vendor_name,po_date,po_amount,variance_dollar,variance_percent,cumulative_invoiced,status,remark,suggested_action,confidence_score,overall_extraction_confidence,ocr_confidence,vendor_email,contact_person,file_name,processed_date,check_details
